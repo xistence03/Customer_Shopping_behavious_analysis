@@ -1,4 +1,4 @@
-# Customer_Shopping_behavious_analysis
+# Customer_Shopping_behaviour_analysis
 
 A leading retail company wants to better understand its customers’ shopping behavior in order 
 to improve sales, customer satisfaction, and long-term loyalty. The management team has 
